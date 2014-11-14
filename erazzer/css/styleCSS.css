@@ -1,0 +1,163 @@
+body {
+    background-image: url('images/background/backgroundLight1.jpg');
+    background-size: cover;
+    font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+}
+
+#textMenu {
+    color: #FFFFFF;
+    text-shadow: 0 0 20px #000000;
+    font-weight: bold;
+}
+#titreFenetre {
+    color: #FFFFFF;
+    text-shadow: 0 0 20px #000000;
+    font-weight: bold;
+}
+.borderImage {
+    border : 2px solid #999;
+    box-shadow : 2px 2px 4px #000;
+}
+
+#selectBackground {
+    position: absolute;
+    width: 600px;
+    height: 255px;
+    top: 150px;
+    left: 200px;
+    padding: 0.5em;      
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+#settingBox {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    top: 150px;
+    left: 200px;
+    padding: 0.5em;
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+#folderBox {
+    color: #000000;
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    top: 150px;
+    left: 200px;
+    padding: 0.5em;
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+#timeBox {
+    position: absolute;
+    width: 600px;
+    height: 400px;
+    top: 150px;
+    left: 200px;
+    padding: 0.5em;
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+#backupBox {
+    position: absolute;
+    width: 1000px;
+    height: 500px;
+    top: 150px;
+    left: 400px;
+    padding: 0.5em;
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+#proceduresBox {
+    position: absolute;
+    width: 900px;
+    height: 500px;
+    top: 150px;
+    left: 400px;
+    padding: 0.5em;
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+#notesBox {
+    position: absolute;
+    width: 300px;
+    height: 600px;
+    top: 150px;
+    right: 200px;
+    padding: 0.5em;
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+#outilsBox {
+    position: absolute;
+    width: 300px;
+    height: 600px;
+    top: 150px;
+    right: 200px;
+    padding: 0.5em;
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+#liensBox {
+    position: absolute;
+    width: 300px;
+    height: 600px;
+    top: 150px;
+    right: 200px;
+    padding: 0.5em;
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+#callBox {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 150px;
+    right: 200px;
+    padding: 0.5em;
+    border: 3px solid #666666;
+    box-shadow: 4px 4px 10px #000;
+    background-image: url('images/texture.gif');
+}
+input {
+    font-family: "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
+    text-align: center;
+    border: 3px solid #999;
+}
+a {
+    color: #222222;
+    font-weight: bold;
+}
+a:hover {
+    color: #2b81af;
+    font-weight: bold;
+}
+.menuTS {
+    font-size: 12px;
+}
+.menuTop {
+    font-size: 12px;
+}
+#mainFrame {
+    position: absolute;
+    width:100%;
+    text-align:center;
+    left: 0px;
+    top: 180px;
+}
+#mainFrameContent {
+    width: 1000px;
+    height:580px;
+    background-image: url('images/texture.gif');
+}
